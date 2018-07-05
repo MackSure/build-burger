@@ -1,9 +1,9 @@
 .Logo {
-    background-color: white;
+    background-color: #ffffff;
     padding: 8px;
     height: 100%;
     box-sizing: border-box;
-    border-radius: 5px;
+    border-radius: 10%;
 }
 
 .Logo img {
